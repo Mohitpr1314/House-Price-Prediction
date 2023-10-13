@@ -11,7 +11,7 @@ Train the model.
 Make predictions.
 Evaluate the model's performance using simple metrics.
 Dataset
-Replace the 'data.csv' file with your own dataset in CSV format. Ensure your dataset has relevant features and a target variable for house prices.
+Replace the '______' file with your own dataset in CSV format. Ensure your dataset has relevant features and a target variable for house prices.
 
 Model
 We use a basic Linear Regression model for prediction. You can explore more advanced models for better results.
